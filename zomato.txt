@@ -1,3 +1,3 @@
-1.open app
+1.open app swiggy
 2.place order
 3.done
